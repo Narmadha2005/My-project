@@ -1,0 +1,6 @@
+Steo 1: Start
+Step 2: Get the age of person 
+Step 3: Store the age in variable age_person
+Step 4: Check age is greater than or equal to 18
+Step 5: If true, display "Eligible to vote" otherwise display "Not Eligible to vote".
+Step 6: Stop
