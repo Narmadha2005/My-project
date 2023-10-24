@@ -1,0 +1,12 @@
+#Main fun()
+BEGIN
+GET n
+CALL fact=factorial(n)
+PRINT fact
+END
+#Sub fun()
+IF (n==1) THEN 
+  fact=1
+  RETURN fact
+ELSE
+  RETURN fact=n*factorial(n-1)
