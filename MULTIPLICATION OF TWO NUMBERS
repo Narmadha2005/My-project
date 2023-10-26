@@ -1,0 +1,12 @@
+#pseudo code
+BEGIN
+GET num1,num2
+COMPUTE num1*num2=num3
+DISPLAY num3
+END
+
+#Program
+num1=10
+num2=2
+mul_num=num1*num2
+print('The multiplication value is',mul_num)
