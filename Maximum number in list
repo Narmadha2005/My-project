@@ -1,0 +1,6 @@
+list=[1,2,3,8,18,50,6]
+max=list[0]
+for i in list:
+  if i>=max:
+      max=i
+print("The maximum nmber is",max)
