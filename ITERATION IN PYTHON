@@ -1,0 +1,9 @@
+# ITERATION
+Repeated execution of the  same block of code again and again is called as iteration
+#TYPES OF ITERATION
+ 1. Definite
+ 2. Indefinite
+#DEFINITE ITERATION:
+  When a program needs to iterate a set number of times this is called as count controlled iteration or definite iteration
+#INDEFINITE ITERATION:
+  A loop that will continue to run infinite number of times until and unless it is asked to stop.
